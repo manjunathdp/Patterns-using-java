@@ -8,11 +8,9 @@ public class P13HollowPyramid {
             if(i>1) {
                 for (int j = 1; j <= ((i - 1) * 2) - 1; j++) {
                     System.out.print(" ");
-
                 }
                 System.out.print("*");
             }
-
             System.out.println();
         }
     }

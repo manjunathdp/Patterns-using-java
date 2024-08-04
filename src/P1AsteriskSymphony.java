@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 You need to develop a simple Java application to print a given pattern using a loop
 structure.
@@ -14,7 +16,10 @@ Print the Given Pattern
  */
 public class P1AsteriskSymphony {
     public static void main(String[] args) {
-        for (int i = 0; i < 4; i++) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("input: ");
+        int n = sc.nextInt();
+        for (int i = 0; i < n; i++) {
             System.out.println("*");
 
         }

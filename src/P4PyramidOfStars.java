@@ -22,6 +22,5 @@ public class P4PyramidOfStars {
             }
             System.out.println();
         }
-
     }
 }

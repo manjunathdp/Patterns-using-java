@@ -22,7 +22,6 @@ public class P11Right_AlignedStarPyramid {
                 System.out.print("*");
             }
             System.out.println();
-
         }
     }
 }

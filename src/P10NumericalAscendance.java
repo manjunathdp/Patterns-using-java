@@ -23,7 +23,6 @@ public class P10NumericalAscendance {
                 System.out.print(j+" ");
             }
             System.out.println();
-
         }
     }
 }

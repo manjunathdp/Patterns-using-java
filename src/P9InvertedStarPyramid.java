@@ -19,7 +19,6 @@ public class P9InvertedStarPyramid {
                 System.out.print("*");
             }
             System.out.println();
-
         }
     }
 }

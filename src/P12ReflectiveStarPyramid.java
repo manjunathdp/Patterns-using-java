@@ -29,7 +29,6 @@ public class P12ReflectiveStarPyramid {
                 System.out.print("*");
             }
             System.out.println();
-
         }
     }
 }

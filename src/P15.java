@@ -24,7 +24,6 @@ public class P15 {
                 System.out.print("@ ");
             }
             System.out.println();
-
         }
     }
 }

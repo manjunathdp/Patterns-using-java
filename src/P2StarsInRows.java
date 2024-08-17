@@ -20,6 +20,5 @@ public class P2StarsInRows {
             }
             System.out.println();
         }
-
     }
 }
